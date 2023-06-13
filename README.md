@@ -12,5 +12,5 @@
 As part of my current postion in ArabTherapy, It is required from me to get educated in laravel, laravel REST APIS, sanctum, Thus i'm inclined 
 to watch courses, and this was one of the courses that i stumbled upon:
 
-- [raversy Media]([https://laravel.com/docs/routing](https://www.youtube.com/watch?v=MT-GJQIY3EU&ab_channel=TraversyMedia)).
-
+- [Traversy Media](https://www.youtube.com/watch?v=MT-GJQIY3EU&ab_channel=TraversyMedia).
+- [Time: 4:18:00](https://www.youtube.com/watch?v=MT-GJQIY3EU&ab_channel=TraversyMedia).
